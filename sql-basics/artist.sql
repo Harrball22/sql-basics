@@ -1,7 +1,7 @@
 INSERT INTO artist (name)
-VALUES ('kupla'),
-	('game_chops'),
-  ('purple-cat');
+VALUES ('Kupla'),
+	('Game Chops'),
+  ('Purple Cat');
 
 SELECT * FROM artist ORDER BY name DESC LIMIT 10;
 
